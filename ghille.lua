@@ -805,7 +805,7 @@ title.BackgroundTransparency = 1
 title.Font, title.TextSize = Enum.Font.GothamBold, 13
 title.TextColor3 = Color3.fromRGB(180, 140, 255)
 title.TextXAlignment = Enum.TextXAlignment.Left
-title.Text = "GHOST CHECK"
+title.Text = "GHILLE CHECK"
 title.Parent = f
 
 local status = Instance.new("TextLabel")
