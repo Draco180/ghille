@@ -68,7 +68,7 @@ local CONFIG = {
                            -- Set to FALSE if you ever put this in autoexec: the
                            -- autoexec copy already runs on join, and queueing
                            -- as well starts two copies that fight each other.
-    AUTO_START   = true,   -- run a check on join (for autoexec use). Turn this
+    AUTO_START   = false,   -- run a check on join (for autoexec use). Turn this
                            -- OFF if you ever die and want to recover a corpse -
                            -- a check ends in a hop, and the corpse only exists
                            -- in the server you died in.
